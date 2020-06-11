@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MCD4</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="msg_error_movie">Tidak ada data film</string>
+    <string name="msg_loading">Memuat</string>
+    <string name="title_tv">Sinetron</string>
+    <string name="title_movie">Film</string>
+    <string name="msg_error_tv">Tidak ada data sinetron</string>
+    <string name="msg_message">Mohon tunggu sebentar &#8230;</string>
+    <string name="change_language">Ganti bahasa</string>
+    <string name="release">"Rilis: "</string>
+    <string name="overview">"Deskripsi: "</string>
+    <string name="rating">"Penilaian: "</string>
+    <string name="ori_lang">"Bahasa Asli: "</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_favorite_tv">Sinetron Favorit</string>
+    <string name="title_favorite_movie">Film Favorit</string>
+</resources>
