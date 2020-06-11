@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MCD3</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="msg_error_movie">Cant get data movies!!!</string>
+    <string name="msg_loading">Loading</string>
+    <string name="title_tv">TV Show</string>
+    <string name="title_movie">Movie</string>
+    <string name="msg_error_tv">Cant get data Tv Show</string>
+    <string name="msg_message">Please wait a second...</string>
+    <string name="change_language">Change Language</string>
+    <string name="release">"Release: "</string>
+    <string name="overview">"Overview: "</string>
+    <string name="rating">"Rating: "</string>
+    <string name="ori_lang">"Original Language: "</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MCD3</string>
+    <string name="title_activity_detail">"Detail "</string>
+    <string name="msg_loading">Memuat</string>
+    <string name="msg_error_movie">Tidak bisa mendapatkan data film!</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="msg_error_tv">Tidak bisa mendapatkan data sinetron</string>
+    <string name="msg_message">Mohon bersabar sebentar...</string>
+    <string name="title_tv">Sinetron</string>
+    <string name="title_movie">Film</string>
+    <string name="release">"Rilis: "</string>
+    <string name="rating">"Peringkat: "</string>
+    <string name="overview">"Deskripsi: "</string>
+    <string name="ori_lang">"Bahasa Asli: "</string>
+</resources>
