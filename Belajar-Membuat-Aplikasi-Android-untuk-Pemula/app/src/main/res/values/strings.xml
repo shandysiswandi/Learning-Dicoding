@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Prophets</string>
+    <string name="about">About</string>
+    <string name="content_description">Content Description</string>
+
+    <string name="name">SHANDY SISWANDI</string>
+    <string name="email">shandysiswandi@gmail.com</string>
+    <string name="quote">\" you are the semicolon to my statement \"</string>
+</resources>
