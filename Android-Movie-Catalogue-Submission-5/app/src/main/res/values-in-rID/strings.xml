@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MCD5</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="msg_error_movie">Tidak ada data film</string>
+    <string name="msg_loading">Memuat</string>
+    <string name="title_tv">Sinetron</string>
+    <string name="title_movie">Film</string>
+    <string name="msg_error_tv">Tidak ada data sinetron</string>
+    <string name="msg_message">Mohon tunggu sebentar &#8230;</string>
+    <string name="change_language">Ganti bahasa</string>
+    <string name="release">"Rilis: "</string>
+    <string name="overview">"Deskripsi: "</string>
+    <string name="rating">"Penilaian: "</string>
+    <string name="ori_lang">"Bahasa Asli: "</string>
+    <string name="title_favorite">Kesukaan</string>
+    <string name="title_favorite_tv">Sinetron Kesukaan</string>
+    <string name="title_favorite_movie">Film Kesukaan</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="search">Cari</string>
+    <string name="change_setting">Pengaturan</string>
+    <string name="title_setting">Pengaturan Pemberitahuan</string>
+    <string name="daily_title">Pemberitahuan Harian</string>
+    <string name="release_title">Pemberitahuan Terbaru</string>
+</resources>

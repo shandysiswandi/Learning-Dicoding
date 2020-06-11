@@ -1,0 +1,19 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/title_setting">
+
+        <SwitchPreferenceCompat
+            app:key="daily"
+            app:summaryOff="@string/daily_title"
+            app:summaryOn="@string/daily_title"
+            app:title="@string/daily_title" />
+
+        <SwitchPreferenceCompat
+            app:key="release"
+            app:summaryOff="@string/release_title"
+            app:summaryOn="@string/release_title"
+            app:title="@string/release_title" />
+
+    </PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>
